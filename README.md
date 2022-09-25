@@ -7,7 +7,7 @@ Hello, my name is Mani Kumar and I am a master's student at [Ernst-Abbe-Hochschu
 - 🔭 I’m currently working on Frontend development
 - 🌱 I’m currently learning on Backend development
 - 💬 Ask me about anything i am happy to help you
-- 📫 How to reach me: (yadlapallimanikumar1@gmail.com)
+- 📫 How to reach me: yadlapallimanikumar1@gmail.com
 
 
 
