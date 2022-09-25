@@ -26,7 +26,7 @@ Hello, my name is Mani Kumar and I am a master's student at [Ernst-Abbe-Hochschu
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manihellodjango)](https://github.com/Manihellodjango/github-readme-stats);
-[![Manihellodjango GitHub stats](https://github-readme-stats.vercel.app/api?username=Manihellodjango)](https://github.com/Manihellodjago/edit/main/README.md);
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manihellodjango)];
+[![Manihellodjango GitHub stats](https://github-readme-stats.vercel.app/api?username=Manihellodjango&show_icons=true&theme=radical)];
 
 
