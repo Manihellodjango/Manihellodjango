@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Mani Kumar]
+### Hi there 👋, I am Mani Kumar
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -15,14 +15,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Mani Kumar and I am a master's student at [Ernst-Abbe-Hochschule jena](https://www.eah-jena.de/) majoring in Scientific Instrumentation.  My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
+Hello, my name is Mani Kumar and I am a master's student at [Ernst-Abbe-Hochschule jena](https://www.eah-jena.de/) majoring in Scientific Instrumentation.Currently working as work student in Frontend development.
 
-- 🔭 
-- 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: yadlapallimanikumar1@gmail.com
-- 😄 Pronouns: Programmer
-- ⚡ 
-- 
+
 
 **Languages and Tools:** 
 
