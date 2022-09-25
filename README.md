@@ -27,6 +27,7 @@ Hello, my name is Mani Kumar and I am a master's student at [Ernst-Abbe-Hochschu
 
 
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manihellodjango);<br>
-[Manihellodjango GitHub stats](https://github-readme-stats.vercel.app/api?username=Manihellodjango&show_icons=true&theme=radical);
+![Manihellodjango GitHub stats](https://github-readme-stats.vercel.app/api?username=Manihellodjango&show_icons=true&theme=tokyonight);
+
 
 
