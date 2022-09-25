@@ -26,4 +26,4 @@ Hello, my name is Mani Kumar and I am a master's student at [Ernst-Abbe-Hochschu
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 <img align="left" alt="Manihellodjango Github Stats" src="https://github-readme-stats.vercel.app/api?username=Manihellodjango &theme=radical" />
-
+ [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manihellodjango &theme=radical)]
