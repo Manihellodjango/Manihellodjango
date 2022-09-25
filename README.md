@@ -24,9 +24,9 @@ Hello, my name is Mani Kumar and I am a master's student at [Ernst-Abbe-Hochschu
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manihellodjango)](https://github.com/Manihellodjango/github-readme-stats);
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats);
 
-<img align="left" alt="Manihellodjango Github Stats" src="https://github-readme-stats.vercel.app/api?username=Manihellodjango &theme=radical" />
- ![Github stats](https://github-readme-stats.vercel.app/api?username=Manihellodjango &theme=radical)
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manihellodjango)](https://github.com/Manihellodjango/github-readme-stats);
+[![Manihellodjango GitHub stats](https://github-readme-stats.vercel.app/api?username=Manihellodjango)](https://github.com/Manihellodjago/edit/main/README.md);
+
+
