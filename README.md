@@ -1,10 +1,4 @@
 ### Hi there 👋, I am Mani Kumar
-<!--
-**rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-
--->
 
 Hello, my name is Mani Kumar and I am a master's student at [Ernst-Abbe-Hochschule jena](https://www.eah-jena.de/) majoring in Scientific Instrumentation.Currently working as work student in Frontend development at [Intershop Communications Ag](https://www.intershop.com/de/)
 
@@ -13,7 +7,7 @@ Hello, my name is Mani Kumar and I am a master's student at [Ernst-Abbe-Hochschu
 - 🔭 I’m currently working on Frontend development
 - 🌱 I’m currently learning on Backend development
 - 💬 Ask me about anything i am happy to help you
-- 📫 How to reach me: [yadlapallimanikumar1@gmail.com]
+- 📫 How to reach me: (yadlapallimanikumar1@gmail.com)
 
 
 
