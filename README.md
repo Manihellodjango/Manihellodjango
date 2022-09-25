@@ -9,7 +9,7 @@ Hello, my name is Mani Kumar and I am a master's student at [Ernst-Abbe-Hochschu
 - 💬 Ask me about anything i am happy to help you
 - 📫 How to reach me: yadlapallimanikumar1@gmail.com
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manihellodjango &theme=radical)
 
 **Languages and Tools:** 
 
@@ -25,5 +25,5 @@ Hello, my name is Mani Kumar and I am a master's student at [Ernst-Abbe-Hochschu
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manihellodjango &theme=radical)
+
 
