@@ -1,14 +1,13 @@
 ### Hi there 👋, I am Mani Kumar
 
-Hello, my name is Mani Kumar and I am a master's student at [Ernst-Abbe-Hochschule jena](https://www.eah-jena.de/) majoring in Scientific Instrumentation.Currently working as work student in Frontend development at [Intershop Communications Ag](https://www.intershop.com/de/)
+Hello, my name is Mani Kumar and I am a master's student at [Ernst-Abbe-Hochschule jena](https://www.eah-jena.de/) majoring in Scientific Instrumentation.Currently working as work student in Frontend development at [Intershop Communications Ag](https://www.intershop.com/de/).Actively looking for fulltime positions as frontend developer.
 
 ## Talking about personal stuffs:
 
 - 🔭 I’m currently working on Frontend development
 - 🌱 I’m currently learning on Backend development
-- 💬 Ask me about anything i am happy to help you
+- 💬 Ask me about anything I am happy to help you
 - 📫 How to reach me: yadlapallimanikumar1@gmail.com
-
 
 
 **Languages and Tools:** 
@@ -26,7 +25,7 @@ Hello, my name is Mani Kumar and I am a master's student at [Ernst-Abbe-Hochschu
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manihellodjango)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manihellodjango)<br><br>
 ![Manihellodjango GitHub stats](https://github-readme-stats.vercel.app/api?username=Manihellodjango&show_icons=true&theme=tokyonight)
 
 
