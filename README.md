@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Mani Kumar
 
-Hello, my name is Mani Kumar and I am a master's student at [Ernst-Abbe-Hochschule jena](https://www.eah-jena.de/) majoring in Scientific Instrumentation.Currently working as work student in Frontend development at [Intershop Communications Ag](https://www.intershop.com/de/).Actively looking for fulltime positions as frontend developer.
+Hello, my name is Mani Kumar and I am a master's student at [Ernst-Abbe-Hochschule jena](https://www.eah-jena.de/) majoring in Scientific Instrumentation.Currently working as junior consultant at [Intershop Communications Ag](https://www.intershop.com/de/).
 
 ## Talking about personal stuffs:
 
