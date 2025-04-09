@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Mani Kumar
 
-Hello, my name is Mani Kumar and I am a master's student at [Ernst-Abbe-Hochschule jena](https://www.eah-jena.de/) majoring in Scientific Instrumentation.Currently working as junior consultant at [Intershop Communications Ag](https://www.intershop.com/de/).
+Hello, my name is Mani Kumar and I am a master's student at [Ernst-Abbe-Hochschule jena](https://www.eah-jena.de/) majoring in Scientific Instrumentation.
 
 ## Talking about personal stuffs:
 
